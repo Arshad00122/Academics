@@ -1,3 +1,5 @@
+# Check whether the number entered is prime number or not
+
 def primeornot(num):
     if num<2:
         print("Its a composite number")

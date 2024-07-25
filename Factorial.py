@@ -1,3 +1,5 @@
+# Find the factorial of a number provided by the user
+
 def factorial(num):
     sum = 1
 

@@ -1,4 +1,4 @@
-# leap year finder
+# Check if a cerrtain year is leap year or not
 
 yrs = int(input("Enter an year:"))
 

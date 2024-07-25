@@ -1,5 +1,6 @@
-# Fibonacci Sequence means each number is equal to the sum of preceding two number
+# Q Display the fibonacci sequence up to nth terms
 
+#Fibonacci Sequence means each number is equal to the sum of preceding two number
 
 def fibonacci_Seq(n):
 
