@@ -1,0 +1,14 @@
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\obj\Debug\net8.0\Completed Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\obj\Debug\net8.0\Completed Projects.AssemblyInfoInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\obj\Debug\net8.0\Completed Projects.AssemblyInfo.cs
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\obj\Debug\net8.0\Completed Projects.csproj.CoreCompileInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\bin\Debug\net8.0\Completed Projects.exe
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\bin\Debug\net8.0\Completed Projects.deps.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\bin\Debug\net8.0\Completed Projects.runtimeconfig.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\bin\Debug\net8.0\Completed Projects.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\bin\Debug\net8.0\Completed Projects.pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\obj\Debug\net8.0\Completed Projects.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\obj\Debug\net8.0\refint\Completed Projects.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\obj\Debug\net8.0\Completed Projects.pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\obj\Debug\net8.0\Completed Projects.genruntimeconfig.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Calculator\obj\Debug\net8.0\ref\Completed Projects.dll

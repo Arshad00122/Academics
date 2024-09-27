@@ -1,0 +1,14 @@
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\bin\Debug\net8.0\Dice game.exe
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\bin\Debug\net8.0\Dice game.deps.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\bin\Debug\net8.0\Dice game.runtimeconfig.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\bin\Debug\net8.0\Dice game.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\bin\Debug\net8.0\Dice game.pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\obj\Debug\net8.0\Dice game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\obj\Debug\net8.0\Dice game.AssemblyInfoInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\obj\Debug\net8.0\Dice game.AssemblyInfo.cs
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\obj\Debug\net8.0\Dice game.csproj.CoreCompileInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\obj\Debug\net8.0\Dice game.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\obj\Debug\net8.0\refint\Dice game.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\obj\Debug\net8.0\Dice game.pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\obj\Debug\net8.0\Dice game.genruntimeconfig.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game\obj\Debug\net8.0\ref\Dice game.dll

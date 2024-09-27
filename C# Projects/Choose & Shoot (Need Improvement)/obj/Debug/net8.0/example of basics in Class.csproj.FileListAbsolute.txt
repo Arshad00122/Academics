@@ -1,0 +1,14 @@
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\bin\Debug\net8.0\example of basics in Class.exe
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\bin\Debug\net8.0\example of basics in Class.deps.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\bin\Debug\net8.0\example of basics in Class.runtimeconfig.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\bin\Debug\net8.0\example of basics in Class.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\bin\Debug\net8.0\example of basics in Class.pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\obj\Debug\net8.0\example of basics in Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\obj\Debug\net8.0\example of basics in Class.AssemblyInfoInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\obj\Debug\net8.0\example of basics in Class.AssemblyInfo.cs
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\obj\Debug\net8.0\example of basics in Class.csproj.CoreCompileInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\obj\Debug\net8.0\example of basics in Class.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\obj\Debug\net8.0\refint\example of basics in Class.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\obj\Debug\net8.0\example of basics in Class.pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\obj\Debug\net8.0\example of basics in Class.genruntimeconfig.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\example of basics in Class\obj\Debug\net8.0\ref\example of basics in Class.dll
