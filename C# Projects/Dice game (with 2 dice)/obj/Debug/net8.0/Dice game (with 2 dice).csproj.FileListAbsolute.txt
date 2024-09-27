@@ -1,0 +1,14 @@
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\bin\Debug\net8.0\Dice game (with 2 dice).exe
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\bin\Debug\net8.0\Dice game (with 2 dice).deps.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\bin\Debug\net8.0\Dice game (with 2 dice).runtimeconfig.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\bin\Debug\net8.0\Dice game (with 2 dice).dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\bin\Debug\net8.0\Dice game (with 2 dice).pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\obj\Debug\net8.0\Dice game (with 2 dice).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\obj\Debug\net8.0\Dice game (with 2 dice).AssemblyInfoInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\obj\Debug\net8.0\Dice game (with 2 dice).AssemblyInfo.cs
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\obj\Debug\net8.0\Dice game (with 2 dice).csproj.CoreCompileInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\obj\Debug\net8.0\Dice game (with 2 dice).dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\obj\Debug\net8.0\refint\Dice game (with 2 dice).dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\obj\Debug\net8.0\Dice game (with 2 dice).pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\obj\Debug\net8.0\Dice game (with 2 dice).genruntimeconfig.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Dice game (with 2 dice)\obj\Debug\net8.0\ref\Dice game (with 2 dice).dll

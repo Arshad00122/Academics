@@ -1,0 +1,14 @@
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\bin\Debug\net8.0\Rock Paper Scissor.exe
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\bin\Debug\net8.0\Rock Paper Scissor.deps.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\bin\Debug\net8.0\Rock Paper Scissor.runtimeconfig.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\bin\Debug\net8.0\Rock Paper Scissor.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\bin\Debug\net8.0\Rock Paper Scissor.pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\obj\Debug\net8.0\Rock Paper Scissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\obj\Debug\net8.0\Rock Paper Scissor.AssemblyInfoInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\obj\Debug\net8.0\Rock Paper Scissor.AssemblyInfo.cs
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\obj\Debug\net8.0\Rock Paper Scissor.csproj.CoreCompileInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\obj\Debug\net8.0\Rock Paper Scissor.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\obj\Debug\net8.0\refint\Rock Paper Scissor.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\obj\Debug\net8.0\Rock Paper Scissor.pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\obj\Debug\net8.0\Rock Paper Scissor.genruntimeconfig.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\Rock Paper Scissor\obj\Debug\net8.0\ref\Rock Paper Scissor.dll

@@ -1,0 +1,14 @@
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\bin\Debug\net8.0\The True Wizard.exe
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\bin\Debug\net8.0\The True Wizard.deps.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\bin\Debug\net8.0\The True Wizard.runtimeconfig.json
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\bin\Debug\net8.0\The True Wizard.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\bin\Debug\net8.0\The True Wizard.pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\obj\Debug\net8.0\The True Wizard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\obj\Debug\net8.0\The True Wizard.AssemblyInfoInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\obj\Debug\net8.0\The True Wizard.AssemblyInfo.cs
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\obj\Debug\net8.0\The True Wizard.csproj.CoreCompileInputs.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\obj\Debug\net8.0\The True Wizard.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\obj\Debug\net8.0\refint\The True Wizard.dll
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\obj\Debug\net8.0\The True Wizard.pdb
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\obj\Debug\net8.0\The True Wizard.genruntimeconfig.cache
+C:\Users\Arsha\OneDrive\Documents\Programming_data\Csharp_Projects\Completed Projects\The True Wizard\obj\Debug\net8.0\ref\The True Wizard.dll
